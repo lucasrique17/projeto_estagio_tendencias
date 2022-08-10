@@ -1,0 +1,16 @@
+.footer {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #008000;
+}
+
+.footer h3 {
+    color: #FFF8DC;
+}
+
+.footer p {
+    color: #FFF8DC;
+}
